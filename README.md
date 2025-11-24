@@ -6,7 +6,7 @@ Through the **AWS re/Start program**, I am building the technical and profession
 
 This repository documents everything I learn, practice, and build during the program — including notes, labs, projects, and certification progress.
 
----thtrth
+---
 
 ## 🌩️ About AWS re/Start
 
