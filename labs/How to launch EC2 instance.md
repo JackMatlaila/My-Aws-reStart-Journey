@@ -36,6 +36,8 @@ A quick guide to create an EC2 instance on AWS for hosting projects, scripts, or
    - **Key Pair**: Create or select one for SSH  
    - **Network & Storage**: Default VPC/subnet and 8GB storage  
 ![Screenshot](../labs/images/Screenshot%20(44).png)
+![Screenshot](../labs/images/Screenshot%20(45).png)
+![Screenshot](../labs/images/Screenshot%20(46).png)
 
 3. Click **Next: Configure Security Group**
 
@@ -47,6 +49,8 @@ A quick guide to create an EC2 instance on AWS for hosting projects, scripts, or
   - **SSH (22)** → Your IP  
   - **HTTP (80)** / **HTTPS (443)** → Optional for web apps  
 - Name the group and click **Review and Launch**
+![Screenshot](../labs/images/Screenshot%20(47).png)
+
 
 ---
 
