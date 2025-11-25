@@ -35,7 +35,7 @@ A quick guide to create an EC2 instance on AWS for hosting projects, scripts, or
    - **Instance Type**: `t2.micro` (free tier)  
    - **Key Pair**: Create or select one for SSH  
    - **Network & Storage**: Default VPC/subnet and 8GB storage  
-"C:\Users\user\OneDrive\Pictures\Screenshots\Screenshot (44).png
+![Screenshot](C:\Users\user\OneDrive\Pictures\Screenshots\Screenshot (44).png)
 
 3. Click **Next: Configure Security Group**
 
