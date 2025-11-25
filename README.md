@@ -1,6 +1,6 @@
 # 🌟 My Cloud Journey – Onalenna Jack Matlaila
 
-![AWS re/Start](https://d1.awsstatic.com/restart/AWS-reStart_Logo.2e16d0ba.fill-400x100.png)
+
 
 Hey there! I’m **Onalenna Jack Matlaila**, and I’m diving into the world of cloud computing through **AWS re/Start**.  
 I come from a background in telecommunications and electrical engineering, and now I’m learning to build, manage, and deploy cloud infrastructure.
