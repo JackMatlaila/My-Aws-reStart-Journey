@@ -24,4 +24,6 @@
 ## Useful Shortcuts
 - `Ctrl + C` – Stop running command  
 - `Ctrl + L` – Clear screen  
-
+![Screenshot](../Linux/images/Screenshot%20(14).png
+![Screenshot](../Linux/images/Screenshot%20(18).png
+![Screenshot](../Linux/images/Screenshot%20(19).png
