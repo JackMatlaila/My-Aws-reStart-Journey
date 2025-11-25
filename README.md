@@ -1,40 +1,39 @@
-# Onalenna Jack Matlaila – My AWS re/Start Journey
+# 🌟 My Cloud Journey – Onalenna Jack Matlaila
 
 ![AWS re/Start](https://d1.awsstatic.com/restart/AWS-reStart_Logo.2e16d0ba.fill-400x100.png)
 
-Hi there! 👋 I’m **Onalenna Jack Matlaila**, a budding Cloud Engineer with a background in telecommunications and electrical engineering.  
+Hey there! I’m **Onalenna Jack Matlaila**, and I’m diving into the world of cloud computing through **AWS re/Start**.  
+I come from a background in telecommunications and electrical engineering, and now I’m learning to build, manage, and deploy cloud infrastructure.
 
-Through the **AWS re/Start program**, I’m learning the skills I need to start a career in cloud computing. This repository is my **personal notebook** — everything I learn, practice, and build goes here: notes, labs, mini-projects, and my progress toward certifications.
-
----
-
-## 🌩️ About AWS re/Start
-
-AWS re/Start is a full-time, classroom-based program that prepares people for **entry-level cloud jobs**.  
-
-During the program, I’m learning:
-
-- Core AWS services: EC2, S3, IAM, VPC, Lambda, CloudWatch  
-- Linux system administration  
-- Python programming  
-- Networking basics  
-- Databases (SQL & NoSQL)  
-- Security best practices  
-- Soft skills like communication, time management, and teamwork  
-
-Basically, it’s a mix of tech and career skills rolled into one.
+This repo is my **learning playground** — where I jot down notes, practice labs, try mini-projects, and track my progress through the program.  
 
 ---
 
-## 🛠️ Skills & Badges
+## 🌩️ About the Program
 
-Here’s a snapshot of the tech I’m getting my hands dirty with:
+AWS re/Start is a **hands-on, full-time program** that helps people get ready for entry-level cloud jobs.  
+
+I’m getting experience in:
+
+- AWS Core Services: EC2, S3, IAM, VPC, Lambda, CloudWatch  
+- Linux administration and command-line skills  
+- Python programming for automation  
+- Networking basics and troubleshooting  
+- SQL & NoSQL databases  
+- Security practices in cloud environments  
+- Teamwork, communication, and professional growth  
+
+---
+
+## 🛠️ Tools & Skills I’m Exploring
+
+Here’s a snapshot of the technologies I’m working with:
 
 ### Cloud & AWS
 ![AWS Badge](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazon-aws&style=for-the-badge)
 ![EC2 Badge](https://img.shields.io/badge/EC2-Virtual_Server-blue?logo=amazon-aws&style=for-the-badge)
 ![S3 Badge](https://img.shields.io/badge/S3-Storage-lightblue?logo=amazon-aws&style=for-the-badge)
-![IAM Badge](https://img.shields.io/badge/IAM-Access-Control-green?logo=amazon-aws&style=for-the-badge)
+![IAM Badge](https://img.shields.io/badge/IAM-Access_Control-green?logo=amazon-aws&style=for-the-badge)
 ![VPC Badge](https://img.shields.io/badge/VPC-Networking-red?logo=amazon-aws&style=for-the-badge)
 ![CloudWatch Badge](https://img.shields.io/badge/CloudWatch-Monitoring-yellow?logo=amazon-aws&style=for-the-badge)
 
@@ -49,40 +48,38 @@ Here’s a snapshot of the tech I’m getting my hands dirty with:
 
 ---
 
-## 📘 What You’ll Find in This Repo
+## 📚 What’s in This Repo
 
-### 📚 Cloud Foundations Notes
-I take notes on everything we cover:
+### Notes & Summaries
+I keep a record of everything I learn:
 
-- AWS compute, storage, networking, and security  
-- IAM and permissions  
-- S3 storage classes and versioning  
-- EC2 setup and configuration  
-- VPC basics: subnets, routing, security groups  
-- CloudWatch monitoring  
-- Billing & pricing models  
+- EC2 setup, S3 storage options, and IAM policies  
+- VPC design: subnets, routing, security groups  
+- Monitoring with CloudWatch  
+- Pricing and cost management  
+- Linux commands, permissions, and file management  
 
-### 🧪 Hands-On Labs
-I also document every lab I do:
+### Labs & Practice
+I document my hands-on work, including:
 
-- Launching EC2 instances  
-- Creating S3 buckets & managing permissions  
-- Working with IAM users, roles, and policies  
-- Setting up VPC subnets and routes  
-- Linux commands, permissions, and scripting  
-- Simple Python automation scripts
+- Launching EC2 instances and connecting via SSH  
+- Creating and managing S3 buckets  
+- Setting up IAM users, groups, and roles  
+- Building VPCs and subnets  
+- Running scripts and automating tasks in Python  
+- Exploring Linux commands and system administration  
 
 ---
 
-## 💡 Skills I’m Building
+## 💡 Skills I’m Growing
 
-- **Cloud:** AWS EC2, S3, IAM, VPC, CloudWatch, Lambda (intro), RDS basics  
-- **Linux:** Filesystems, permissions, processes, users, logs, bash commands  
-- **Networking:** IPs, subnets, routing, ports, DNS, firewalls  
-- **Programming:** Python basics, loops, functions, data handling  
-- **Professional:** Communication, teamwork, time management, problem-solving  
+- **Cloud:** EC2, S3, IAM, VPC, CloudWatch, Lambda (intro), RDS basics  
+- **Linux:** File management, permissions, processes, logging, scripting  
+- **Networking:** IPs, routing, subnets, DNS, ports, firewalls  
+- **Programming:** Python fundamentals, loops, functions, file handling  
+- **Soft Skills:** Communication, problem-solving, teamwork, time management  
 
 ---
 
-> This is my personal **cloud notebook**, and I add to it every day. I like to see my growth in real-time — and having all my labs, notes, and projects in one place makes it easy to track progress.  
+> This is my **personal cloud notebook**. I’m constantly adding to it as I learn, experiment, and make mistakes (because that’s where the real learning happens). If you’re curious about cloud or want to see my labs, you’re in the right place! 🚀
 
