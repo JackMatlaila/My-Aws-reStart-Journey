@@ -6,7 +6,7 @@ Each one reflects a completed module — click to view, or scroll to read what I
 ---
 
 ## AWS SimuLearn: Core Security Concepts  
-![Core Security Concepts Certificate](../certifications/Assests/Core%20Security%20concepts.png)
+![Core Security Concepts Certificate](../certifications/Assets/Core%20Security%20concepts.png)
 
 
 **What I Learned & Practiced**  
@@ -18,7 +18,7 @@ Each one reflects a completed module — click to view, or scroll to read what I
 ---
 
 ## AWS SimuLearn: Cloud Computing Essentials  
-![Cloud Computing Essentials Certificat](../certifications/Assests/Cloud%20Computing%20Essential.png)
+![Cloud Computing Essentials Certificat](../certifications/Assets/Cloud%20Computing%20Essential.png)
 
 
 **What I Learned & Practiced**  
@@ -30,7 +30,7 @@ Each one reflects a completed module — click to view, or scroll to read what I
 ---
 
 ## AWS SimuLearn: Databases in Practice  
-![Databases in Practice Certificate](../certifications/Assests/SimuLearn%20Databases%20in%20Practice.png)
+![Databases in Practice Certificate](../certifications/Assets/SimuLearn%20Databases%20in%20Practice.png)
 
 
 **What I Learned & Practiced**  
@@ -41,7 +41,7 @@ Each one reflects a completed module — click to view, or scroll to read what I
 ---
 
 ## AWS SimuLearn: Networking Concepts  
-![Networking Concepts Certificate](../certifications/Assests/SImuLearn%20Networking%20Concepts.png)
+![Networking Concepts Certificate](../certifications/Assets/SImuLearn%20Networking%20Concepts.png)
 
 **What I Learned & Practiced**  
 - Building a VPC: subnets, CIDR blocks, route tables, public vs private networking  
@@ -52,7 +52,7 @@ Each one reflects a completed module — click to view, or scroll to read what I
 ---
 
 ## AWS SimuLearn: File Systems in the Cloud  
-![File Systems in the Cloud Certificate](../certifications/Assests/File%20Systems%20in%20the%20Clouds.png)
+![File Systems in the Cloud Certificate](../certifications/Assets/File%20Systems%20in%20the%20Clouds.png)
 
 **What I Learned & Practiced**  
 - Storage types on AWS: object storage (S3), block storage (EBS), file storage (EFS) — pros/cons of each  
