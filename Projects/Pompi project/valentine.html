@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Pompi Login Portal 💕</title>
+
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: linear-gradient(to right, #ff9a9e, #fad0c4);
+            overflow: hidden;
+        }
+
+        /* Floating hearts */
+        .heart {
+            position: absolute;
+            color: #ff4d88;
+            font-size: 20px;
+            animation: float 6s linear infinite;
+        }
+
+        @keyframes float {
+            0% {
+                transform: translateY(100vh);
+                opacity: 1;
+            }
+            100% {
+                transform: translateY(-10vh);
+                opacity: 0;
+            }
+        }
+
+        .container {
+            position: relative;
+            z-index: 2;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        .card {
+            background: white;
+            padding: 30px;
+            border-radius: 20px;
+            width: 350px;
+            text-align: center;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+        }
+
+        h2 {
+            color: #e91e63;
+        }
+
+        input {
+            width: 90%;
+            padding: 10px;
+            margin: 10px 0;
+            border-radius: 10px;
+            border: 1px solid #ccc;
+        }
+
+        button {
+            background: #e91e63;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 20px;
+            cursor: pointer;
+            font-size: 16px;
+            margin-top: 10px;
+        }
+
+        button:hover {
+            background: #c2185b;
+        }
+
+        #valentineSection {
+            display: none;
+            margin-top: 15px;
+        }
+
+        #finalMessage {
+            display: none;
+            text-align: center;
+            color: white;
+            padding: 40px;
+        }
+
+        #finalMessage img {
+            width: 200px;
+            border-radius: 20px;
+            margin-top: 20px;
+            box-shadow: 0 10px 20px rgba(0,0,0,0.3);
+        }
+
+    </style>
+</head>
+
+<body>
+
+<!-- Floating Hearts -->
+<script>
+for (let i = 0; i < 20; i++) {
+    let heart = document.createElement("div");
+    heart.className = "heart";
+    heart.innerHTML = "💖";
+    heart.style.left = Math.random() * 100 + "vw";
+    heart.style.animationDuration = (3 + Math.random() * 5) + "s";
+    heart.style.fontSize = (15 + Math.random() * 25) + "px";
+    document.body.appendChild(heart);
+}
+</script>
+
+<div class="container">
+
+    <div class="card" id="loginCard">
+        <h2>💕 My Heart Login Portal 💕</h2>
+        <p>Restricted access. Pompi only.</p>
+
+        <input type="text" id="username" placeholder="Enter Username">
+        <input type="password" id="password" placeholder="Enter Password">
+        <button onclick="checkLogin()">Login</button>
+
+        <p id="result"></p>
+
+        <div id="valentineSection">
+            <h3>💖 Will you be my Valentine? 💖</h3>
+            <button onclick="showFinal()">YES 💕</button>
+            <button onclick="showFinal()">OBVIOUSLY YES 😌</button>
+        </div>
+    </div>
+
+</div>
+
+<div id="finalMessage">
+    <h1>💘 She Said Yes 💘</h1>
+    <p>
+        Pompi,  
+        You are my peace, my happiness, and my greatest blessing.  
+        Every day with you feels like a gift I never want to stop opening.  
+        I don’t just want you for Valentine’s Day…  
+        I want you for every season, every dream, every lifetime.  
+        Thank you for choosing me. ❤️
+    </p>
+
+ <img src="./pompi.jpg.jpeg" width="250">
+
+    <h2>Forever Yours 💕</h2>
+</div>
+
+<script>
+function checkLogin() {
+    var username = document.getElementById("username").value.toLowerCase();
+    var password = document.getElementById("password").value.toLowerCase();
+    var result = document.getElementById("result");
+    var section = document.getElementById("valentineSection");
+
+    if (username === "pompi" && password === "your heart") {
+        result.innerHTML = "❤️ ACCESS GRANTED ❤️";
+        result.style.color = "green";
+        section.style.display = "block";
+    } else {
+        result.innerHTML = "🚫 Access Denied! Only the cutest girl named Pompi can enter 😌";
+        result.style.color = "red";
+    }
+}
+
+function showFinal() {
+    document.querySelector(".container").style.display = "none";
+    document.getElementById("finalMessage").style.display = "block";
+}
+</script>
+
+</body>
+</html>
